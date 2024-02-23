@@ -35,5 +35,9 @@
     "hooks": {
       "pre-commit": "./.husky/./pre-commit"
     }
+  },
+  "engines": {
+    "node": ">=18.17.0",
+    "npm": "please-use-npm"
   }
 }
